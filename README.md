@@ -32,18 +32,6 @@ The programs are written for academic learning, laboratory practice, and algorit
 - Linear Search
 - Binary Search
 
-### Divide and Conquer
-- Merge Sort
-- Quick Sort
-- Min-Max Algorithm
-- Maximum Subarray Problem
-
-### Greedy Algorithms
-- Knapsack Problem
-- Job Sequencing
-- Optimal Merge Pattern
-- Minimum Spanning Tree
-
 ### Graph Algorithms
 - Prim’s Algorithm
 - Kruskal’s Algorithm
@@ -54,6 +42,8 @@ The programs are written for academic learning, laboratory practice, and algorit
 - Travelling Salesman Problem, Branch and Bound
 - Longest Common Subsequence (LCS)
 - 0/1 Knapsack
+
+## Complete DAA Algorithms Collections
 
 ## Features
 - Simple C implementation
