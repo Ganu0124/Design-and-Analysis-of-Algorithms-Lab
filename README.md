@@ -50,9 +50,10 @@ The programs are written for academic learning, laboratory practice, and algorit
 - Dijkstra’s Algorithm
 
 ### Dynamic Programming
+- Matrix Chain Multiplication
+- Travelling Salesman Problem, Branch and Bound
+- Longest Common Subsequence (LCS)
 - 0/1 Knapsack
-- Fibonacci
-- Matrix Problems
 
 ## Features
 - Simple C implementation
