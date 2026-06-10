@@ -66,7 +66,6 @@ After completing these programs, students will be able to:
 ```bash
 Sorting/
 Searching/
-Greedy/
 DynamicProgramming/
 Graphs/
-DivideAndConquer/
+Complete DAA Algortihms Collections/
