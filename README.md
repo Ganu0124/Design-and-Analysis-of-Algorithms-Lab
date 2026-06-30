@@ -1,4 +1,4 @@
-# Design and Analysis of Algorithms 
+# Design and Analysis of Algorithms Lab
 
 ## Overview
 This repository contains complete Design and Analysis of Algorithms (DAA) lab programs implemented in C. The project covers fundamental algorithms and problem-solving techniques commonly used in computer science and software engineering.
