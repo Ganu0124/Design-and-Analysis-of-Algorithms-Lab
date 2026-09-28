@@ -1,18 +1,5 @@
 # Design and Analysis of Algorithms Lab
-xaxdcshm design techniques
-- Analyze time and space complexity
-- Implement standard algorithms using C
-- Learn optimization and problem-solving methods
-- Practice algorithmic thinking
-
-## Technologies Used
-- C Programming
-- Turbo C
-- GCC Compiler
-
-## Algorithms Included
-
-### Sorting Algorithms
+xaadaddad
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
