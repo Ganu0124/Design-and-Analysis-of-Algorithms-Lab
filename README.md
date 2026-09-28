@@ -1,9 +1,5 @@
 # Design and Analysis of Algorithms Lab
-addadadd
-- Prim’s Algorithm
-- Kruskal’s Algorithm
-- Dijkstra’s Algorithm
-
+addadd
 ### Dynamic Programming
 - Matrix Chain Multiplication
 - Travelling Salesman Problem, Branch and Bound
