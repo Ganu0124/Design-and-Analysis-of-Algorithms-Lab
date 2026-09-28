@@ -1,9 +1,5 @@
 # Design and Analysis of Algorithms Lab
-
-The programs are written for academic learning, laboratory practice, and algorithm analysis.
-
-## Objectives
-- Understand algorithm design techniques
+xaxdcshm design techniques
 - Analyze time and space complexity
 - Implement standard algorithms using C
 - Learn optimization and problem-solving methods
