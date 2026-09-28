@@ -1,18 +1,5 @@
 # Design and Analysis of Algorithms Lab
-xaadaddad
-- Bubble Sort
-- Selection Sort
-- Insertion Sort
-- Shell Sort
-- Merge Sort
-- Quick Sort
-- Heap Sort
-
-### Searching Algorithms
-- Linear Search
-- Binary Search
-
-### Graph Algorithms
+addadadd
 - Prim’s Algorithm
 - Kruskal’s Algorithm
 - Dijkstra’s Algorithm
